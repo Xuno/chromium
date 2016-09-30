@@ -1,2 +1,2 @@
 # chromium
-Fork of chromium for build linux with HEVC codec HTML video
+Fork of Chromium Web Browser Linux build supporting HTML HEVC h.265 video
